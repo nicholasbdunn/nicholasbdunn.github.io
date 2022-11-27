@@ -14,11 +14,13 @@ profile:
     <p>Your City, State 12345</p> -->
 
 news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an undergraduate student double majoring in computer science and mathematics at [Columbus State University](https://www.columbusstate.edu/), where I am also a tutor for both computer science and mathematics. I previously worked as an undergraduate researcher in the [Department of Computer Science and Software Engineering](https://eng.auburn.edu/csse/) at [Auburn University](https://www.auburn.edu/) as part of the Research Experiences for Undergraduates (REU) on Smart Unmanned Aerial Vehicles (UAVs) program funded by the National Science Foundation (NSF). Our research focused on using computer vision, onboard cameras and sensors, and fiducial markers to autonomously fly UAVs through a GPS-denied environment.
+I am an undergraduate student double majoring in computer science and mathematics at [Columbus State University](https://www.columbusstate.edu/), where I am also a tutor for both computer science and mathematics.
+
+I previously worked as an undergraduate researcher in the [Department of Computer Science and Software Engineering](https://eng.auburn.edu/csse/) at [Auburn University](https://www.auburn.edu/) as part of the Research Experiences for Undergraduates (REU) on Smart Unmanned Aerial Vehicles (UAVs) program funded by the National Science Foundation (NSF). Our research focused on using computer vision, onboard cameras and sensors, and fiducial markers to autonomously fly UAVs through a GPS-denied environment.
 
 After completing my bachelor’s degrees, I plan on pursuing a Ph.D. in Computer Science with a focus on artificial intelligence.
 
