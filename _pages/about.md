@@ -22,7 +22,7 @@ I am an undergraduate student double majoring in computer science and mathematic
 
 I previously worked as an undergraduate researcher in the [Department of Computer Science and Software Engineering](https://eng.auburn.edu/csse/) at [Auburn University](https://www.auburn.edu/) as part of the Research Experiences for Undergraduates (REU) on Smart Unmanned Aerial Vehicles (UAVs) program funded by the National Science Foundation (NSF). Our research focused on using computer vision, onboard cameras and sensors, and fiducial markers to autonomously fly UAVs through a GPS-denied environment.
 
-After completing my bachelor’s degrees, I plan on pursuing a Ph.D. in Computer Science with a focus on artificial intelligence.
+After completing my bachelor’s degrees, I plan on pursuing a Ph.D. in Computer Science with a focus on machine learning, computer vision, and robotics.
 
 <!-- Write your bio here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
