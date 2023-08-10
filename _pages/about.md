@@ -20,7 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am an undergraduate student double majoring in computer science and mathematics at [Columbus State University](https://www.columbusstate.edu/), where I am also a tutor for both subjects.
 
-I previously worked as an undergraduate researcher in the [Department of Computer Science and Software Engineering](https://eng.auburn.edu/csse/) at [Auburn University](https://www.auburn.edu/) as part of the Research Experiences for Undergraduates (REU) on Smart Unmanned Aerial Vehicles (UAVs) program funded by the National Science Foundation (NSF). Our research focused on autonomously navigating UAVs through a GPS-denied environment using computer vision, onboard cameras and sensors, and fiducial markers.
+This past summer, I worked as an undergraduate researcher in the [Robotics Institute]( https://www.ri.cmu.edu/) at [Carnegie Mellon University]( https://www.cmu.edu/) (CMU) as part of the [Robotics Institute Summer Scholars]( https://riss.ri.cmu.edu/) (RISS) program. My research focused on improving instance segmentation performance of computer vision machine learning models. My advisor was [Dr. Christoph Mertz]( https://www.ri.cmu.edu/ri-people/christoph-mertz/), and I was also fortunate to collaborate with [Dr. Srinivasa Narasimhan]( http://www.cs.cmu.edu/~srinivas/) and several others in the CMU community.
+
+During the summer of 2021, I worked as an undergraduate researcher in the [Department of Computer Science and Software Engineering](https://eng.auburn.edu/csse/) at [Auburn University](https://www.auburn.edu/) as part of the Research Experiences for Undergraduates (REU) on Smart Unmanned Aerial Vehicles (UAVs) program funded by the National Science Foundation (NSF). Our research focused on autonomously navigating UAVs through a GPS-denied environment using computer vision, onboard cameras and sensors, and fiducial markers.
 
 After completing my bachelor’s degrees, I plan to pursue a Ph.D. in Computer Science focusing on machine learning, computer vision, and robotics. 
 
