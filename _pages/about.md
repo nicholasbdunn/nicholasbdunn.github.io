@@ -24,7 +24,7 @@ This past summer, I worked as an undergraduate researcher in the [Robotics Insti
 
 During the summer of 2021, I worked as an undergraduate researcher in the [Department of Computer Science and Software Engineering](https://eng.auburn.edu/csse/) at [Auburn University](https://www.auburn.edu/) as part of the Research Experiences for Undergraduates (REU) on Smart Unmanned Aerial Vehicles (UAVs) program funded by the National Science Foundation (NSF). Our research focused on autonomously navigating UAVs through a GPS-denied environment using computer vision, onboard cameras and sensors, and fiducial markers.
 
-After completing my bachelor’s degrees, I plan to pursue a master's degree in computer science focusing on machine learning algorithms.
+After completing my bachelor’s degrees, I plan to pursue a master's degree in computer science focusing on developing machine learning algorithms.
 
 <!-- Write your bio here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
