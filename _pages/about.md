@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: > # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
           <p>MSCS student at <a href='https://www.cmu.edu/'>Carnegie Mellon University</a></p>
-          <p>⭐⭐⭐ Currently seeking internship opportunities for Spring/Summer 2026! ⭐⭐⭐</p>
+          <p><strong>⭐⭐⭐ Currently seeking internship opportunities for Spring/Summer 2026! ⭐⭐⭐</strong></p>
 
 profile:
   align: right
