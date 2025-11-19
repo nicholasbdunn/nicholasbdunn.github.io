@@ -4,7 +4,7 @@ title: Surveillance System
 description: Surveillance system with motion detection, image capture, and wireless notifications using a Raspberry Pi and Arduino with attachments.
 img: assets/img/surveillance_system.jpg
 importance: 2
-category: Miscellaneous
+category: Embedded Systems
 ---
 
 <div class="row">

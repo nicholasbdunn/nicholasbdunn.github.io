@@ -2,10 +2,11 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A selected list of my projects.
+description: > 
+  A selected list of my projects.
 nav: true
 nav_order: 1
-display_categories: [Miscellaneous] # [work, fun]
+display_categories: [Computer Systems, Embedded Systems, Machine Learning] # [work, fun]
 horizontal: false
 ---
 
