@@ -447,6 +447,41 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-cloud-hosted-multi-tier-web-service-with-dynamic-scaling",
+          title: 'Cloud-Hosted Multi-Tier Web Service with Dynamic Scaling',
+          description: "Cloud-hosted multi-tier web service with dynamically scaled front-end and back-end virtual machines using Java.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cloud_service/";
+            },},{id: "projects-denoising-diffusion-probabilistic-model-ddpm",
+          title: 'Denoising Diffusion Probabilistic Model (DDPM)',
+          description: "DDPM using PyTorch.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ddpm/";
+            },},{id: "projects-dynamic-memory-allocator",
+          title: 'Dynamic Memory Allocator',
+          description: "Dynamic memory allocator implementing the malloc, free, realloc, and calloc functions in C.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dynamic_memory_allocator/";
+            },},{id: "projects-multithreaded-file-caching-web-proxy",
+          title: 'Multithreaded File-Caching Web Proxy',
+          description: "Multithreaded file-caching web proxy using Java RMI.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/file_caching_web_proxy/";
+            },},{id: "projects-linux-shell",
+          title: 'Linux Shell',
+          description: "Linux shell that supports job control and I/O redirection, implemented in C.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/linux_shell/";
+            },},{id: "projects-low-rank-adaptation-lora",
+          title: 'Low Rank Adaptation (LoRA)',
+          description: "LoRA for a pre-trained GPT2 model using PyTorch.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lora/";
+            },},{id: "projects-deep-learning-library-needle-necessary-elements-of-deep-learning",
+          title: 'Deep Learning Library: Needle (Necessary Elements of Deep Learning)',
+          description: "Built a complete deep learning library capable of efficient GPU-based operations and automatic differentiation, with support for parameterized layers, loss functions, data loaders, and optimizers. Implemented back-end operations in C++ and Cuda to add both CPU and GPU support. Used the library to implement a transformer, convolutional neural network (CNN), and recurrent neural network (RNN).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/needle/";
             },},{id: "projects-smart-alarm-system-with-biometric-fingerprint-authentication",
           title: 'Smart Alarm System with Biometric Fingerprint Authentication',
           description: "Smart alarm system with motion detection, biometric fingerprint authentication, and wireless notifications using an Arduino with attachments.",
