@@ -3,7 +3,7 @@ layout: page
 title: Smart Alarm System with Biometric Fingerprint Authentication
 description: Smart alarm system with motion detection, biometric fingerprint authentication, and wireless notifications using an Arduino with attachments.
 img: assets/img/smart_alarm.jpg
-importance: 1
+importance: 3
 category: Embedded Systems
 ---
 
