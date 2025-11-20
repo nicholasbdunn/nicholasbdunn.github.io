@@ -45,17 +45,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/photo-gallery/";
           
         },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
       },{id: "post-a-post-with-tabs",
         
           title: "a post with tabs",
@@ -276,17 +265,6 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -482,6 +460,11 @@ ninja.data = [{
           description: "Built a complete deep learning library capable of efficient GPU-based operations and automatic differentiation, with support for parameterized layers, loss functions, data loaders, and optimizers. Implemented back-end operations in C++ and Cuda to add both CPU and GPU support. Used the library to implement a transformer, convolutional neural network (CNN), and recurrent neural network (RNN).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/needle/";
+            },},{id: "projects-bluetooth-rc-car",
+          title: 'Bluetooth RC Car',
+          description: "Bluetooth RC car using a Raspberry Pi, motor controller, and Android web app.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rc_car/";
             },},{id: "projects-smart-alarm-system-with-biometric-fingerprint-authentication",
           title: 'Smart Alarm System with Biometric Fingerprint Authentication',
           description: "Smart alarm system with motion detection, biometric fingerprint authentication, and wireless notifications using an Arduino with attachments.",
@@ -492,6 +475,11 @@ ninja.data = [{
           description: "Surveillance system with motion detection, image capture, and wireless notifications using a Raspberry Pi and Arduino with attachments.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/surveillance_system/";
+            },},{id: "projects-autonomous-unmanned-aerial-vehicle-uav",
+          title: 'Autonomous Unmanned Aerial Vehicle (UAV)',
+          description: "Autonomous UAV navigation using computer vision with a Raspberry Pi, camera, onboard sensors, and fiducial markers.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/uav/";
             },},{
         id: 'social-email',
         title: 'email',
