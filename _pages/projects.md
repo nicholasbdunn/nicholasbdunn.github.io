@@ -10,6 +10,14 @@ display_categories: [Computer Systems, Embedded Systems, Machine Learning] # [wo
 horizontal: false
 ---
 
+<style>
+  .projects h2.category {
+    color:#555;
+    font-weight:500;
+    border-bottom:1px solid #555;
+  }
+</style>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
