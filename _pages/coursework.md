@@ -33,7 +33,8 @@ nav_order: 2
   <img src="{{ '/assets/img/csu.png' | relative_url }}" alt="CSU" style="height:52px; width:auto; margin-right:12px;">
   <div>
     <h4 style="margin:0 0 4px 0;"><strong>Columbus State University</strong></h4>
-    <h6><strong>B.S. in Computer Science&nbsp;&nbsp;&&nbsp;&nbsp;B.S. in Mathematics</strong></h6>
+    <h6 style="margin:0 0 4px 0;"><strong>B.S. in Computer Science</strong></h6>
+    <h6><strong>B.S. in Mathematics</strong></h6>
   </div>
 </div>
 
@@ -74,3 +75,5 @@ nav_order: 2
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 Organize your courses by years, topics, or universities, however you like! -->
+
+<!-- &nbsp;&nbsp;&&nbsp;&nbsp;B.S. in Mathematics -->
