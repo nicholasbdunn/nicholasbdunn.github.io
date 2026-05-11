@@ -21,8 +21,9 @@ nav_order: 2
 * Deep Learning Systems
 * Generative AI
 * Machine Learning with Large Datasets
-* Distributed Systems
 * Introduction to Machine Learning
+* Distributed Systems
+* Database Systems
 * Introduction to Computer Systems
 
 <div style="height: 7px;"></div>
