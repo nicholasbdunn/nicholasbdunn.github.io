@@ -35,7 +35,12 @@ During the summer of 2023, I worked as an undergraduate researcher in the [Robot
 
 During the summer of 2021, I worked as an undergraduate researcher in the [Department of Computer Science and Software Engineering](https://eng.auburn.edu/csse/) at [Auburn University](https://www.auburn.edu/) as part of the Research Experiences for Undergraduates (REU) on Smart Unmanned Aerial Vehicles (UAVs) program funded by the National Science Foundation (NSF). Our research focused on autonomously navigating UAVs through a GPS-denied environment using computer vision, onboard cameras and sensors, and fiducial markers.
 
-I also previously worked as a firefighter/EMT 🚒🔥🚑 and as a telecommunications technician providing phone 📞 and internet 💻 service to the military.
+**Previous Experience**<br>
+🚒 Firefighter/EMT<br>
+📞 Telecommunications technician providing phone and internet service to the military<br>
+🏋🏻‍♂️ Certified personal trainer and fitness coach
+
+<!-- I also previously worked as a firefighter/EMT 🚒🔥🚑 and as a telecommunications technician providing phone 📞 and internet 💻 service to the military. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
