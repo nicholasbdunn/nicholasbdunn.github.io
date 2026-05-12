@@ -506,7 +506,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/nicholas-dunn-3997011bb", "_blank");
+          window.open("https://www.linkedin.com/in/nickbdunn", "_blank");
         },
       },{
       id: 'light-theme',
