@@ -18,8 +18,8 @@ nav_order: 2
 <div style="height: 15px;"></div>
 
 ###### <strong>Coursework:</strong>
-* Deep Learning Systems
 * Generative AI
+* Deep Learning Systems
 * Machine Learning with Large Datasets
 * Introduction to Machine Learning
 * Distributed Systems
