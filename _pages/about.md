@@ -3,8 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: > # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-          <p>🏫 MSCS student at <a href='https://www.cmu.edu/'>Carnegie Mellon University</a></p>
-          <p><strong>⭐⭐⭐ Currently seeking internship opportunities for Summer 2026! ⭐⭐⭐</strong></p>
+          <p><img src="/assets/img/cmu.png" alt="CMU" style="height:1em; width:auto; vertical-align:-0.15em; margin-right:0.25em;"> MSCS student at <a href='https://www.cmu.edu/'>Carnegie Mellon University</a><br>
+          <img src="/assets/img/gdms_logo.png" alt="GDMS" style="height:1em; width:auto; vertical-align:-0.15em; margin-right:0.25em;"> Software Engineer Intern (AI/ML) at <a href='https://gdmissionsystems.com'>General Dynamics Mission Systems</a></p>
 
 profile:
   align: right
@@ -29,16 +29,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Nick. I am a master's student in computer science at Carnegie Mellon University (CMU). I earned my bachelor’s degrees in both computer science and mathematics in 2024 from [Columbus State University](https://www.columbusstate.edu/), where I was also a tutor for both subjects.
+Hi, I'm Nick. I am currently a Software Engineer Intern at General Dynamics Mission Systems, where I use AI/ML to develop solutions for high-stakes, mission-critical applications. I am also a master's student in computer science at Carnegie Mellon University (CMU). I earned my bachelor’s degrees in both computer science and mathematics in 2024 from [Columbus State University](https://www.columbusstate.edu/), where I was also a tutor for both subjects.
 
-During the summer of 2023, I worked as a researcher in the [Robotics Institute](https://www.ri.cmu.edu/) at CMU as part of the [Robotics Institute Summer Scholars (RISS)](https://riss.ri.cmu.edu/) program. My research focused on improving instance segmentation performance of computer vision machine learning models. I was fortunate to be advised by [Dr. Christoph Mertz](https://www.ri.cmu.edu/ri-people/christoph-mertz/) and collaborate with several others in the CMU community.
+During the summer of 2023, I worked as a researcher in the [Robotics Institute](https://www.ri.cmu.edu/) at CMU as part of the [Robotics Institute Summer Scholars (RISS)](https://riss.ri.cmu.edu/) program. My research focused on improving the instance segmentation performance of computer vision models. I was fortunate to be advised by [Dr. Christoph Mertz](https://www.ri.cmu.edu/ri-people/christoph-mertz/) and to collaborate with several others in the CMU community.
 
-During the summer of 2021, I worked as a researcher in the [Department of Computer Science and Software Engineering](https://eng.auburn.edu/csse/) at [Auburn University](https://www.auburn.edu/) as part of the Research Experiences for Undergraduates (REU) on Smart Unmanned Aerial Vehicles (UAVs) program funded by the National Science Foundation (NSF). Our research focused on autonomously navigating UAVs through a GPS-denied environment using computer vision, onboard cameras and sensors, and fiducial markers.
+During the summer of 2021, I worked as a researcher in the [Department of Computer Science and Software Engineering](https://eng.auburn.edu/csse/) at [Auburn University](https://www.auburn.edu/) as part of the Research Experiences for Undergraduates (REU) program on Smart Unmanned Aerial Vehicles (UAVs), funded by the National Science Foundation (NSF). Our research focused on autonomously navigating UAVs through a GPS-denied environment using computer vision, onboard cameras and sensors, and fiducial markers.
 
 **Previous Experience**<br>
 🚒 Firefighter/EMT<br>
-📞 Telecommunications technician providing phone and internet service to the military<br>
-🏋🏻‍♂️ Certified personal trainer and fitness coach
+📞 Telecommunications Technician providing phone and internet service to the military<br>
+🏋🏻‍♂️ Certified Personal Trainer and Fitness Coach
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
