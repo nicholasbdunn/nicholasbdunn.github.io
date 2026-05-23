@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Nick. I am currently a Software Engineer Intern at General Dynamics Mission Systems, where I use AI/ML to develop solutions for high-stakes, mission-critical applications. I am also a master's student in computer science at Carnegie Mellon University (CMU). I earned my bachelor’s degrees in both computer science and mathematics in 2024 from [Columbus State University](https://www.columbusstate.edu/), where I was also a tutor for both subjects.
+Hi, I'm Nick. I am currently a Software Engineer Intern at General Dynamics Mission Systems, where I am developing AI/ML software solutions for high-stakes, mission-critical applications. I am also a master's student in computer science at Carnegie Mellon University (CMU). I earned my bachelor’s degrees in both computer science and mathematics in 2024 from [Columbus State University](https://www.columbusstate.edu/), where I was also a tutor for both subjects.
 
 During the summer of 2023, I worked as a researcher in the [Robotics Institute](https://www.ri.cmu.edu/) at CMU as part of the [Robotics Institute Summer Scholars (RISS)](https://riss.ri.cmu.edu/) program. My research focused on improving the instance segmentation performance of computer vision models. I was fortunate to be advised by [Dr. Christoph Mertz](https://www.ri.cmu.edu/ri-people/christoph-mertz/) and to collaborate with several others in the CMU community.
 
